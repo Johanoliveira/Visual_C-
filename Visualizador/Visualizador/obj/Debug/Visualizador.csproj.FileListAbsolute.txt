@@ -1,0 +1,10 @@
+E:\Johan e cruz\Visualizador\Visualizador\bin\Debug\Visualizador.exe.config
+E:\Johan e cruz\Visualizador\Visualizador\bin\Debug\Visualizador.exe
+E:\Johan e cruz\Visualizador\Visualizador\bin\Debug\Visualizador.pdb
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.AssemblyReference.cache
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.Properties.Resources.resources
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.GenerateResource.cache
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.CoreCompileInputs.cache
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.exe
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.pdb
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.w_Visualizador.resources
