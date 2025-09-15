@@ -108,6 +108,7 @@
             this.btnSacar.TabIndex = 9;
             this.btnSacar.Text = "Sacar";
             this.btnSacar.UseVisualStyleBackColor = true;
+            this.btnSacar.Click += new System.EventHandler(this.btnSacar_Click);
             // 
             // label5
             // 
@@ -137,6 +138,7 @@
             this.btnConsultar.TabIndex = 14;
             this.btnConsultar.Text = "Consultar";
             this.btnConsultar.UseVisualStyleBackColor = true;
+            this.btnConsultar.Click += new System.EventHandler(this.btnConsultar_Click);
             // 
             // btnDepositar
             // 
@@ -146,6 +148,7 @@
             this.btnDepositar.TabIndex = 15;
             this.btnDepositar.Text = "Depositar";
             this.btnDepositar.UseVisualStyleBackColor = true;
+            this.btnDepositar.Click += new System.EventHandler(this.btnDepositar_Click);
             // 
             // w_ContaApp
             // 

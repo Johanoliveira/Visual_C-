@@ -1,0 +1,10 @@
+E:\Johan e cruz\ContaApp\ContaApp\bin\Debug\ContaApp.exe.config
+E:\Johan e cruz\ContaApp\ContaApp\bin\Debug\ContaApp.exe
+E:\Johan e cruz\ContaApp\ContaApp\bin\Debug\ContaApp.pdb
+E:\Johan e cruz\ContaApp\ContaApp\obj\Debug\ContaApp.csproj.AssemblyReference.cache
+E:\Johan e cruz\ContaApp\ContaApp\obj\Debug\ContaApp.w_ContaApp.resources
+E:\Johan e cruz\ContaApp\ContaApp\obj\Debug\ContaApp.Properties.Resources.resources
+E:\Johan e cruz\ContaApp\ContaApp\obj\Debug\ContaApp.csproj.GenerateResource.cache
+E:\Johan e cruz\ContaApp\ContaApp\obj\Debug\ContaApp.csproj.CoreCompileInputs.cache
+E:\Johan e cruz\ContaApp\ContaApp\obj\Debug\ContaApp.exe
+E:\Johan e cruz\ContaApp\ContaApp\obj\Debug\ContaApp.pdb
