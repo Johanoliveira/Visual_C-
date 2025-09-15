@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\Johan e cruz\\ContaApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EB80CA4-D6D7-4283-BD54-B062990F5929}|ContaApp\\ContaApp.csproj|e:\\johan e cruz\\contaapp\\contaapp\\cappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB80CA4-D6D7-4283-BD54-B062990F5929}|ContaApp\\ContaApp.csproj|solutionrelative:contaapp\\cappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EB80CA4-D6D7-4283-BD54-B062990F5929}|ContaApp\\ContaApp.csproj|e:\\johan e cruz\\contaapp\\contaapp\\cappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2EB80CA4-D6D7-4283-BD54-B062990F5929}|ContaApp\\ContaApp.csproj|solutionrelative:contaapp\\cappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EB80CA4-D6D7-4283-BD54-B062990F5929}|ContaApp\\ContaApp.csproj|e:\\johan e cruz\\contaapp\\contaapp\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EB80CA4-D6D7-4283-BD54-B062990F5929}|ContaApp\\ContaApp.csproj|E:\\Johan e cruz\\ContaApp\\contaapp\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EB80CA4-D6D7-4283-BD54-B062990F5929}|ContaApp\\ContaApp.csproj|solutionrelative:contaapp\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CAppForm.cs",
+              "DocumentMoniker": "E:\\Johan e cruz\\ContaApp\\ContaApp\\CAppForm.cs",
+              "RelativeDocumentMoniker": "ContaApp\\CAppForm.cs",
+              "ToolTip": "E:\\Johan e cruz\\ContaApp\\ContaApp\\CAppForm.cs",
+              "RelativeToolTip": "ContaApp\\CAppForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:15:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CAppForm.cs [Design]",
+              "DocumentMoniker": "E:\\Johan e cruz\\ContaApp\\ContaApp\\CAppForm.cs",
+              "RelativeDocumentMoniker": "ContaApp\\CAppForm.cs",
+              "ToolTip": "E:\\Johan e cruz\\ContaApp\\ContaApp\\CAppForm.cs [Design]",
+              "RelativeToolTip": "ContaApp\\CAppForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:54:41.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Conta.cs",
               "DocumentMoniker": "E:\\Johan e cruz\\ContaApp\\ContaApp\\Conta.cs",
               "RelativeDocumentMoniker": "ContaApp\\Conta.cs",
@@ -32,18 +61,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T20:04:44.356Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CAppForm.cs [Design]",
-              "DocumentMoniker": "E:\\Johan e cruz\\ContaApp\\ContaApp\\CAppForm.cs",
-              "RelativeDocumentMoniker": "ContaApp\\CAppForm.cs",
-              "ToolTip": "E:\\Johan e cruz\\ContaApp\\ContaApp\\CAppForm.cs [Design]",
-              "RelativeToolTip": "ContaApp\\CAppForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:54:41.995Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -98,6 +98,7 @@
             this.btnCriarConta.TabIndex = 8;
             this.btnCriarConta.Text = "Criar Conta";
             this.btnCriarConta.UseVisualStyleBackColor = true;
+            this.btnCriarConta.Click += new System.EventHandler(this.btnCriarConta_Click);
             // 
             // btnSacar
             // 

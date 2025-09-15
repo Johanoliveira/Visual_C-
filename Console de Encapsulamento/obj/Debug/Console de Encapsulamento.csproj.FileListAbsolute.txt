@@ -1,0 +1,7 @@
+E:\Johan e cruz\Console de Encapsulamento\bin\Debug\Console de Encapsulamento.exe.config
+E:\Johan e cruz\Console de Encapsulamento\bin\Debug\Console de Encapsulamento.exe
+E:\Johan e cruz\Console de Encapsulamento\bin\Debug\Console de Encapsulamento.pdb
+E:\Johan e cruz\Console de Encapsulamento\obj\Debug\Console de Encapsulamento.csproj.AssemblyReference.cache
+E:\Johan e cruz\Console de Encapsulamento\obj\Debug\Console de Encapsulamento.csproj.CoreCompileInputs.cache
+E:\Johan e cruz\Console de Encapsulamento\obj\Debug\Console de Encapsulamento.exe
+E:\Johan e cruz\Console de Encapsulamento\obj\Debug\Console de Encapsulamento.pdb

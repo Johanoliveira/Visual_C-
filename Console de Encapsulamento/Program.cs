@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Console_de_Encapsulamento
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Aluno Al1 = new Aluno("Johan");
+            Aluno Al2 = new Aluno("Tavares");
+
+            Console.WriteLine("Nota de Aprovação: " + Aluno.GetNotaAprov());
+
+            Console.WriteLine("Prontuário: " + Al1.GetProntuario());
+            Console.WriteLine("Nome: " + Al1.GetNome());
+
+            Console.WriteLine("Prontuário: " + Al2.GetProntuario());
+            Console.WriteLine("Nome: " + Al2.GetNome());
+
+            Console.ReadLine();
+        }
+    }
+}
