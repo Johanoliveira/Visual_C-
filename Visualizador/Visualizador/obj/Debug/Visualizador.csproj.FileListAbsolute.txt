@@ -8,3 +8,5 @@ E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.csproj.CoreComp
 E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.exe
 E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.pdb
 E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.w_Visualizador.resources
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.OptionsForm.resources
+E:\Johan e cruz\Visualizador\Visualizador\obj\Debug\Visualizador.w_OptionsForm.resources

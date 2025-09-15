@@ -38,6 +38,7 @@
             this.btnDrawBorder = new System.Windows.Forms.Button();
             this.lblX = new System.Windows.Forms.Label();
             this.lblY = new System.Windows.Forms.Label();
+            this.btn_Janela = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pb_Figura)).BeginInit();
             this.SuspendLayout();
             // 
@@ -126,12 +127,23 @@
             this.lblY.TabIndex = 7;
             this.lblY.Text = "Y:";
             // 
+            // btn_Janela
+            // 
+            this.btn_Janela.Location = new System.Drawing.Point(324, 173);
+            this.btn_Janela.Name = "btn_Janela";
+            this.btn_Janela.Size = new System.Drawing.Size(75, 23);
+            this.btn_Janela.TabIndex = 8;
+            this.btn_Janela.Text = "Abrir Janela";
+            this.btn_Janela.UseVisualStyleBackColor = true;
+            this.btn_Janela.Click += new System.EventHandler(this.btn_Janela_Click);
+            // 
             // w_Visualizador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Window;
-            this.ClientSize = new System.Drawing.Size(415, 285);
+            this.ClientSize = new System.Drawing.Size(414, 291);
+            this.Controls.Add(this.btn_Janela);
             this.Controls.Add(this.lblY);
             this.Controls.Add(this.lblX);
             this.Controls.Add(this.btnDrawBorder);
@@ -143,6 +155,8 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "w_Visualizador";
             this.Text = "Visualizador";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.w_Visualizador_FormClosing);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.w_Visualizador_MouseMove);
             ((System.ComponentModel.ISupportInitialize)(this.pb_Figura)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -160,6 +174,7 @@
         private System.Windows.Forms.Button btnDrawBorder;
         private System.Windows.Forms.Label lblX;
         private System.Windows.Forms.Label lblY;
+        private System.Windows.Forms.Button btn_Janela;
     }
 }
 

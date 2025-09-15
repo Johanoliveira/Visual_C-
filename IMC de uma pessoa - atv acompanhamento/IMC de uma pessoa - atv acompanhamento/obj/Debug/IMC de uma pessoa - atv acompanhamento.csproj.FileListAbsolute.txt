@@ -1,0 +1,10 @@
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\bin\Debug\IMC de uma pessoa - atv acompanhamento.exe.config
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\bin\Debug\IMC de uma pessoa - atv acompanhamento.exe
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\bin\Debug\IMC de uma pessoa - atv acompanhamento.pdb
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\obj\Debug\IMC de uma pessoa - atv acompanhamento.csproj.AssemblyReference.cache
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\obj\Debug\IMC_de_uma_pessoa___atv_acompanhamento.w_IMCForm.resources
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\obj\Debug\IMC_de_uma_pessoa___atv_acompanhamento.Properties.Resources.resources
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\obj\Debug\IMC de uma pessoa - atv acompanhamento.csproj.GenerateResource.cache
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\obj\Debug\IMC de uma pessoa - atv acompanhamento.csproj.CoreCompileInputs.cache
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\obj\Debug\IMC de uma pessoa - atv acompanhamento.exe
+E:\Johan e cruz\IMC de uma pessoa - atv acompanhamento\IMC de uma pessoa - atv acompanhamento\obj\Debug\IMC de uma pessoa - atv acompanhamento.pdb

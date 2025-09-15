@@ -10,11 +10,38 @@ using System.Windows.Forms;
 
 namespace Visualizador
 {
+
     public partial class w_Visualizador : Form
     {
+        public w_OptionsForm[] propriedades;
         public w_Visualizador()
         {
             InitializeComponent();
+            propriedades = new w_OptionsForm[3];
+            int i;
+
+            for (i = 0; i < 3; i++)
+            {
+                propriedades[i] = new w_OptionsForm();
+                if (i == 0)
+                {
+                    propriedades[i].BackColor = Color.Red;
+
+                    propriedades[i].Left = 50;
+                }
+                else if (i == 1)
+                {
+                    propriedades[i].BackColor = Color.Green;
+
+                    propriedades[i].Left = 1000;
+                }
+                else if (i == 2)
+                {
+                    propriedades[i].BackColor = Color.Blue;
+
+                    propriedades[i].Left = 500;
+                }
+            }
         }
 
         private void btn_Selecionar_Click(object sender, EventArgs e)
@@ -81,14 +108,32 @@ namespace Visualizador
 
         private void pb_Figura_MouseLeave(object sender, EventArgs e)
         {
-            lblX.Text = "";
-            lblY.Text = "";
+            lblX.Text = "X: ";
+            lblY.Text = "Y: ";
         }
 
         private void pb_Figura_LoadCompleted(object sender, AsyncCompletedEventArgs e)
         {
-            lblX.Text = "";
-            lblY.Text = "";
+            lblX.Text = "X: ";
+            lblY.Text = "Y: ";
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            ;
+        }
+
+        private void w_Visualizador_MouseMove(object sender, MouseEventArgs e)
+        {
+        }
+
+        private void btn_Janela_Click(object sender, EventArgs e)
+        {
+            propriedades.ShowDialog();
+        }
+
+        private void w_Visualizador_FormClosing(object sender, FormClosingEventArgs e)
+        {
         }
     }
 }
